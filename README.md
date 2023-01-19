@@ -5,6 +5,8 @@ As such, there is great business interest in understanding the drivers of, and m
 
 About Dataset : Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
 
+The dataset was taken from Kaggle ( https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset ) to create the model and predict the various features that are affecting the employee's decision.
+
 Education :
 1 'Below College'
 2 'College'
